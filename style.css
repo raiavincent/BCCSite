@@ -4,4 +4,14 @@ body {
     background-size: cover;
     color: white;
     text-shadow: black 0px 0px 2px;
+
+    
 }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
